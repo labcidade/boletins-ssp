@@ -1,0 +1,59 @@
+Arquivo	Variável	Descrição
+MDIP_2013-19.csv	ANO_BO	Ano do BO
+MDIP_2013-19.csv	NUM_BO	Número do BO
+MDIP_2013-19.csv	NUMERO_BOLETIM	
+MDIP_2013-19.csv	ID	Código da delegacia responsável pelo registro da ocorrência
+MDIP_2013-19.csv	BO_INICIADO	
+MDIP_2013-19.csv	BO_EMITIDO	
+MDIP_2013-19.csv	DATAOCORRENCIA	Data da Ocorrência
+MDIP_2013-19.csv	HORAOCORRENCIA	Hora da Ocorrência
+MDIP_2013-19.csv	PERIDOOCORRENCIA	Período da Ocorrência
+MDIP_2013-19.csv	DATACOMUNICACAO	Data da Comunicação
+MDIP_2013-19.csv	DATAELABORACAO	
+MDIP_2013-19.csv	BO_AUTORIA	
+MDIP_2013-19.csv	FLAGRANTE	Indica se houve flagrante (S= sim; N=não)
+MDIP_2013-19.csv	NUMERO_BOLETIM_PRINCIPAL	
+MDIP_2013-19.csv	LOGRADOURO	Logradouro dos fatos
+MDIP_2013-19.csv	NUMERO	Número do Logradouro dos fatos
+MDIP_2013-19.csv	BAIRRO	Bairro da Ocorrência
+MDIP_2013-19.csv	CIDADE	Cidade de Registro
+MDIP_2013-19.csv	UF	
+MDIP_2013-19.csv	LATITUDE	Latitude da Ocorrência
+MDIP_2013-19.csv	LONGITUDE	Longitude da Ocorrência
+MDIP_2013-19.csv	DESCRICAOLOCAL	Descreve grupo de tipos de locais onde se deu o fato
+MDIP_2013-19.csv	EXAME	
+MDIP_2013-19.csv	SOLUCAO	
+MDIP_2013-19.csv	DELEGACIA_NOME	Delegacia responsável pelo registro
+MDIP_2013-19.csv	DELEGACIA_CIRCUNSCRICAO	
+MDIP_2013-19.csv	ESPECIE	
+MDIP_2013-19.csv	RUBRICA	Natureza jurídica da ocorrência
+MDIP_2013-19.csv	DESDOBRAMENTO	Desdobramentos jurídicos envolvidos na ocorrência
+MDIP_2013-19.csv	STATUS	Indica se é crime consumado ou tentado
+MDIP_2013-19.csv	NOMEPESSOA	
+MDIP_2013-19.csv	TIPOPESSOA	enquadramento da pessoa de acordo com seu envolvimento na ocorrência
+MDIP_2013-19.csv	VITIMAFATAL	indica se a pessoa relacionada é vítima fatal.(S= sim; N=não) 
+MDIP_2013-19.csv	RG	
+MDIP_2013-19.csv	RG_UF	
+MDIP_2013-19.csv	NATURALIDADE	Naturalidade
+MDIP_2013-19.csv	NACIONALIDADE	Nacionalidade
+MDIP_2013-19.csv	SEXO	Sexo
+MDIP_2013-19.csv	DATANASCIMENTO	
+MDIP_2013-19.csv	IDADE	Idade
+MDIP_2013-19.csv	ESTADOCIVIL	Estado Civil
+MDIP_2013-19.csv	PROFISSAO	Profissão do envolvido
+MDIP_2013-19.csv	GRAUINSTRUCAO	Grau de escolaridade do envolvido
+MDIP_2013-19.csv	CORCUTIS	Cor da Pele
+MDIP_2013-19.csv	NATUREZAVINCULADA	
+MDIP_2013-19.csv	TIPOVINCULO	
+MDIP_2013-19.csv	RELACIONAMENTO	Relacionamento entre a vítima e o autor
+MDIP_2013-19.csv	PARENTESCO	
+MDIP_2013-19.csv	PLACA_VEICULO	
+MDIP_2013-19.csv	UF_VEICULO	
+MDIP_2013-19.csv	CIDADE_VEICULO	
+MDIP_2013-19.csv	DESCR_COR_VEICULO	Cor do Veículo
+MDIP_2013-19.csv	DESCR_MARCA_VEICULO	
+MDIP_2013-19.csv	ANO_FABRICACAO	Ano de Fabricação
+MDIP_2013-19.csv	ANO_MODELO	Marca/MODELO
+MDIP_2013-19.csv	DESCR_TIPO_VEICULO	Tipo de Veículo
+MDIP_2013-19.csv	QUANT_CELULAR	
+MDIP_2013-19.csv	MARCA_CELULAR	
