@@ -22,4 +22,4 @@ Download e compilação dos dados disponibilizados no portal de transparência d
 Análise geográfica das ocorrências em atividades de pesquisa
 
 ## Dados externos
-- (Secretaria de Segurança Pública do Estado de São Paulo](http://www.ssp.sp.gov.br/transparenciassp/Consulta.aspx)
+- [Secretaria de Segurança Pública do Estado de São Paulo](http://www.ssp.sp.gov.br/transparenciassp/Consulta.aspx)
