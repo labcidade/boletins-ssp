@@ -12,12 +12,6 @@ Dados sobre boletins de ocorrência divulgados pela Secretaria de Segurança Pú
 
 São parte deste conjunto de dados:
 
-    SIRGAS_SHP_Obitos_COVID19.cpg
-    SIRGAS_SHP_Obitos_COVID19.dbf
-    SIRGAS_SHP_Obitos_COVID19.prj
-    SIRGAS_SHP_Obitos_COVID19.qpj
-    SIRGAS_SHP_Obitos_COVID19.shp
-    SIRGAS_SHP_Obitos_COVID19.shx
     MDIP_2013-19.csv
     METODOLOGIA.docx
 
